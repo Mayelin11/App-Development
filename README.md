@@ -1,2 +1,2 @@
-# Development-App
-"El éxito es la meta"
+Practica
+Primera practica de Electiva 2
